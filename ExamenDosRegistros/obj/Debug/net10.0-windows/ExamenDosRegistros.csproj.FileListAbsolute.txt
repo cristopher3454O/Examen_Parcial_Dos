@@ -1,0 +1,17 @@
+C:\Users\Cristopher\source\repos\ExamenDosRegistros\ExamenDosRegistros\bin\Debug\net10.0-windows\ExamenDosRegistros.exe
+C:\Users\Cristopher\source\repos\ExamenDosRegistros\ExamenDosRegistros\bin\Debug\net10.0-windows\ExamenDosRegistros.deps.json
+C:\Users\Cristopher\source\repos\ExamenDosRegistros\ExamenDosRegistros\bin\Debug\net10.0-windows\ExamenDosRegistros.runtimeconfig.json
+C:\Users\Cristopher\source\repos\ExamenDosRegistros\ExamenDosRegistros\bin\Debug\net10.0-windows\ExamenDosRegistros.dll
+C:\Users\Cristopher\source\repos\ExamenDosRegistros\ExamenDosRegistros\bin\Debug\net10.0-windows\ExamenDosRegistros.pdb
+C:\Users\Cristopher\source\repos\ExamenDosRegistros\ExamenDosRegistros\obj\Debug\net10.0-windows\ExamenDosRegistros.Form1.resources
+C:\Users\Cristopher\source\repos\ExamenDosRegistros\ExamenDosRegistros\obj\Debug\net10.0-windows\ExamenDosRegistros.csproj.GenerateResource.cache
+C:\Users\Cristopher\source\repos\ExamenDosRegistros\ExamenDosRegistros\obj\Debug\net10.0-windows\ExamenDosRegistros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cristopher\source\repos\ExamenDosRegistros\ExamenDosRegistros\obj\Debug\net10.0-windows\ExamenDosRegistros.AssemblyInfoInputs.cache
+C:\Users\Cristopher\source\repos\ExamenDosRegistros\ExamenDosRegistros\obj\Debug\net10.0-windows\ExamenDosRegistros.AssemblyInfo.cs
+C:\Users\Cristopher\source\repos\ExamenDosRegistros\ExamenDosRegistros\obj\Debug\net10.0-windows\ExamenDosRegistros.csproj.CoreCompileInputs.cache
+C:\Users\Cristopher\source\repos\ExamenDosRegistros\ExamenDosRegistros\obj\Debug\net10.0-windows\ExamenDosRegistros.dll
+C:\Users\Cristopher\source\repos\ExamenDosRegistros\ExamenDosRegistros\obj\Debug\net10.0-windows\refint\ExamenDosRegistros.dll
+C:\Users\Cristopher\source\repos\ExamenDosRegistros\ExamenDosRegistros\obj\Debug\net10.0-windows\ExamenDosRegistros.pdb
+C:\Users\Cristopher\source\repos\ExamenDosRegistros\ExamenDosRegistros\obj\Debug\net10.0-windows\ExamenDosRegistros.genruntimeconfig.cache
+C:\Users\Cristopher\source\repos\ExamenDosRegistros\ExamenDosRegistros\obj\Debug\net10.0-windows\ref\ExamenDosRegistros.dll
+C:\Users\Cristopher\source\repos\ExamenDosRegistros\ExamenDosRegistros\obj\Debug\net10.0-windows\ExamenDo.CB5AFA56.Up2Date
